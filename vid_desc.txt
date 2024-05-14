@@ -1,0 +1,74 @@
+Want to get up to speed on AI powered Object Detection but not sure where to start?
+
+Want to start building your own deep learning Object Detection models?
+
+Need some help detecting stuff for your course, startup or business?
+
+This is the course you need!
+
+In this course, you’ll learn everything you need to know to go from beginner to practitioner when it comes to deep learning object detection with Tensorflow. This course mainly revolves around Python but there’s a little Javascript thrown in as well when it comes to building a web app in Project 2. But don’t fret we’ll take it step by step so you can take your time and work through it. All the code it made available through GitHub, links below.  
+
+As part of this course you’ll build four different object detection models:
+A. Gesture Detection - this is the first project where you’ll be able to build a model that detects four different gestures
+B. Microscope Based Defect Detection - here we’ll leverage a USB microscope to detect defects in LEDs and PCBs using TFOD and Python
+C. Web Direction Detection - in this model you’ll learn how to detect hand directions for integration in a React Js Web App with Tensorflow Js
+D. Face Sentiment Detection - here you’ll learn how to estimate facial sentiment using Tensorflow Object Detection on a Raspberry Pi with TFLite
+
+
+You’ll learn how to:
+1. Install Tensorflow Object Detection on a Local Machine and on Colab
+2. Collect and Label images for Object Detection using LabelImg
+3. Train Deep Learning powered Object Detection Models using Python and TFOD
+4. Detect objects in real time using a webcam and using Images
+5. Tune Object Detection models to improve Precision and Recall
+6. Export your model to Tensorflow JS for integration in React JS web apps
+7. Export your model to TFLite for use on a Raspberry Pi
+
+Get the code
+Tensorflow Object Detection Python Course Code: https://github.com/nicknochnack/TFODC...
+Tensorflow Object Detection React App: https://github.com/nicknochnack/TFODApp
+Tensorflow Object Detection for Raspberry Pi: https://github.com/nicknochnack/TFODRPi
+
+Chapters:
+0:00 - Start
+12:13 - SECTION 1: Installation and Setup
+26:34 - Cloning the Baseline Code from GitHub
+27:59 - Creating a Virtual Environment
+39:57 - SECTION 2: Collecting Images and Labelling
+44:48 - Collecting  Images Using Your Webcam
+1:04:11 - Labelling Images for Object Detection using LabelImg
+1:29:08 - SECTION 3: Training Tensorflow Object Detection Models
+1:34:04 - Tensorflow Model Zoo
+1:39:04 - Installing Tensorflow Object Detection for Python
+1:56:41 - Installing CUDA and cuDNN
+2:06:42 - Using Tensorflow Model Zoo models 
+2:09:21 - Creating and Updating a Label Map
+2:10:09 - Creating TF Records
+2:17:23 - Training Tensorflow Object Detection Models for Python
+2:27:48 - Evaluating OD Models (Precision and Recall)
+2:29:08 - Evaluating OD Models using Tensorboard
+2:34:07 - SECTION 4: Detecting Objects from Images and Webcams
+2:34:52 - Detecting Objects in Images
+2:38:57 - Detecting Objects in Real Time using a Webcam
+2:41:56 - SECTION 5: Freezing TFOD and Converting to TFJS and TFLite
+2:42:25 - Freezing the Tensorflow Graph
+2:44:17 - Converting Object Detection Models to Tensorflow Js
+2:45:27 - Converting Object Detection Models to TFLite
+2:47:45 - SECTION 6: Performance Tuning to Improve Precision and Recall
+3:12:34 - SECTION 7: Training Object Detection Models on Colab
+3:24:05 - SECTION 8: Object Detection Projects with Python
+3:25:25 - Project 1: Detecting Object Defects with a Microscope
+3:57:34 - Project 2: Web Direction Detection using Tensorflow JS 
+4:47:40 - Project 3: Sentiment Detection on a Raspberry Pi Using TFLite
+
+Oh, and don't forget to connect with me!
+LinkedIn: https://bit.ly/324Epgo
+Facebook: https://bit.ly/3mB1sZD
+GitHub: https://bit.ly/3mDJllD
+Patreon: https://bit.ly/2OCn3UW
+Join the Discussion on Discord: https://bit.ly/3dQiZsV
+
+Happy coding!
+Nick
+
+P.s. Let me know how you go and drop a comment if you need a hand!
