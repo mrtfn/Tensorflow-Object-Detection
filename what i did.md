@@ -31,4 +31,16 @@ install ipykernel
 install env in ipykernel
     python -m ipykernel install --user --name=tfod
 
+initiated git and did some file managing
+
+installed jupyter 
+    pip install jupyter
+
+run jupyter note book to validate environment installation
+
+installed labelimg
+    https://github.com/HumanSignal/labelImg
+
+    
+    
 
