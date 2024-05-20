@@ -51,9 +51,10 @@ installed labelimg
 
 collecting and labeling images
 
-
-
-
+collecting models
+    https://github.com/tensorflow/models
+    https://github.com/tensorflow/models/tree/master
+    https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md
     
-    
+
 
