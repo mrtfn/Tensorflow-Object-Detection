@@ -26,7 +26,7 @@ created venv
     source tfod/bin/activate
 
 install ipykernel
-    pip install ipykerel
+    pip install ipykernel
 
 install env in ipykernel
     python -m ipykernel install --user --name=tfod
@@ -36,10 +36,23 @@ initiated git and did some file managing
 installed jupyter 
     pip install jupyter
 
-run jupyter note book to validate environment installation
 
+ERROR : 404 GET /static/notebook/3654.bundle.js : pip install notebook==6.1.5
+
+run jupyter note book to validate environment installation
+    jupter notebook
+
+image collector app with qt5
+    
 installed labelimg
     https://github.com/HumanSignal/labelImg
+    !cd {LABELIMG_PATH} && make qt5py3
+    !cd {LABELIMG_PATH} && python labelImg.py
+
+collecting and labeling images
+
+
+
 
     
     
