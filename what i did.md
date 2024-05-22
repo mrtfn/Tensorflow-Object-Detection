@@ -35,9 +35,19 @@ initiated git and did some file managing
 
 installed jupyter 
     pip install jupyter
-
-
 ERROR : 404 GET /static/notebook/3654.bundle.js : pip install notebook==6.1.5
+
+        Server Information:
+        You are using Jupyter notebook.
+
+        The version of the notebook server is: 6.1.5-6702d05
+        The server is running on this version of Python:
+        Python 3.11.9 (main, Apr 27 2024, 21:16:11) [GCC 13.2.0]
+
+        Current Kernel Information:
+        Waiting for kernel to be available...
+`
+
 
 run jupyter note book to validate environment installation
     jupter notebook
@@ -57,4 +67,11 @@ collecting models
     https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md
     
 
+install tensoeflow for gpu
+    pip install tensorflow 
+    pip install tensorflow[and-cuda]
 
+install tensorflow object detection api
+    sudo apt-get install protobuf-compiler
+    cd Tensorflow/models/research && protoc object_detection/protos/*.proto --python_out=. && cp object_detection/packages/tf2/setup.py . && python -m pip install . 
+    
